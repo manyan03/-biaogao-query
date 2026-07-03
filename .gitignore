@@ -1,0 +1,12 @@
+# 排除原始数据 CSV 文件（HTML 不依赖它们运行）
+_shanggu_chars.csv
+_guangyun_chars.csv
+
+# 排除系统文件
+.DS_Store
+Thumbs.db
+
+# 排除编辑器临时文件
+*.swp
+*.swo
+*~
